@@ -13,7 +13,7 @@ This website was created as a simple yet effective example of web design using o
 - Netlify (for deployment)
 - Git & GitHub (for version control)
 
-🔗 **GitHub Repository**: [HTML & CSS Website GitHub](https://github.com/Manuelhhinojosa/HTML-CSS)  
+
 🌐 **Live Demo**: [Restaurant Website](https://restaurantmhh.netlify.app)
 
 Made with ❤️ by [Manuel H Hinojosa](https://manuelhinojosa.netlify.app).
